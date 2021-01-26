@@ -1,1 +1,1 @@
-# DadJokes
+This was an interesting dad joke generator I created utilizing basic use of API and async functions, along manipulation of the DOM. Itried to make it a littly fancy with the help of bootstrap (I love using it, if you can't tell already). The jokes are great aren't they...just lie to me and say yes please :(
